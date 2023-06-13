@@ -3,6 +3,7 @@ const fs = require('fs');
 const Shapes = require('./lib/shapes');
 
 async function promptForLogoDetails() {
+  //prompt user to answer questions to gather input for logo using inquirer
   const answers = await inquirer.prompt([
     {
       name: 'text',
