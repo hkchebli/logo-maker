@@ -1,4 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="300" height="200">
-        <circle cx="150" cy="100" r="50" fill="red" />
-        <text x="150" y="125" font-size="50" fill="blue" text-anchor="middle">das</text>
+        <polygon points="150,20 225,150 75,150" fill="white" />
+        <text x="150" y="125" font-size="50" fill="gold" text-anchor="middle">HKC</text>
       </svg>
